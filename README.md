@@ -47,12 +47,7 @@ Python YOLOv8 PX4 Jetson Nano TensorRT
 成果获第十九届全国大学生节能减排社会实践与科技竞赛 三等奖（国家级）
 Python Computer Vision Object Detection
 
-🛡 大模型网络安全方向研究
-CCF-B · 第二作者
 
-<!-- TODO: 论文接收/投稿后补充题目、会议/期刊、链接 -->
-研究方向：大模型安全相关
-状态：<!-- 审稿中 / 已录用 -->
 📦 海员航海智能工具管理软件 V1.0
 计算机软件著作权 · 登记号 2026SR0691413
 
